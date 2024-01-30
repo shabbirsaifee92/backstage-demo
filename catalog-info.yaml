@@ -6,7 +6,6 @@ metadata:
     github.com/project-slug: 'shabbirsaifee92/backstage-demo'
     sentry.io/project-slug: 'YOUR_PROJECT_SLUG'
     backstage.io/techdocs-ref: dir:.
-    sentry.io/project-slug: 'YOUR_PROJECT_SLUG'
   tags:
     - nginx
     - nodejs
