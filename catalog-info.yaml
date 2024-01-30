@@ -26,5 +26,7 @@ spec:
   type: service
   owner: shabbirsaifee92
   lifecycle: experimental
+  providesApis:
+    - backstage-demo-api
   definition:
     $text: ./backstage.oas.yaml
